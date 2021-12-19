@@ -1,7 +1,7 @@
 # Age From Face
 
 ## description:
-Predict age of the person from an image of their face
+Predict age of a person from an image of their face
 
 
 ### participants:
