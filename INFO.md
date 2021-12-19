@@ -1,25 +1,25 @@
-# replace this text with your title (it will be automatically copied and used for the online visualization)
+# Age From Face
 
 ## description:
-replace this text with description (short description, not more than 200 characters)
+Predict age of the person from an image of their face
 
 
 ### participants:
-replace this text with the name and surnames of all the students who participated
+Oskar Lachnit, Florian Diedrich, Nils-Christian Buck
 
 
 ### contact information:
-replace this text with the contact information: a mail or a place to find information
+buckcri@protonmail.com
 
 ### course:
-replace this text with the name of the course, please copy it from the website
+Deep Learning from Scratch 
 
 
 ### semester:
-replace this text with semester and year in the form "SoSe2021" or "WiSe2122" (SoSe only have one year, WiSe always has 2 years, so just two numbers per year)
+WiSe2122
 
 ### data:
-replace this text with short information about the data? was it personal, available online, from a company?
+Dataset taken from https://www.kaggle.com/frabbisw/facial-age, which is derived from the IMDB-WIKI dataset at https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
 ### website:
-does your project have a website/webapp? otherwise the project folder will link only to the code (if you add a website there will be two links)
+https://github.com/buckcri/age-from-face
