@@ -1,4 +1,4 @@
-# Equation Solver
+# Handwritten Equation Solver
 
 ## description:
 In this project we came up with multiple methods to solve handwritten equations and provide a live demo of the process.
